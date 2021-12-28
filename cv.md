@@ -21,3 +21,43 @@ I have been interested in frontend technologies for a long time. I like to const
 * Graphics: Figma
 * DevTools: Chrome DevTools, Firebug
 ***
+#### Code 
+``` 
+function counter1 () {
+    button1 = document.getElementById('button1');
+    var count1 = 0; //the current value is written here
+    button1.innerHTML = count1; 
+    
+    button1.onclick = function (e) {
+        e = e || event;
+        var target1 = e.target || e.srcElement;
+        if (target1.className == 'but1') {
+            count1++;
+            button1.innerHTML = count1;
+
+        }
+    }
+}
+```
+***
+#### Courses
+
+* Codeacademy - HTML/CSS (online)
+* FreeCodeCamp - HTML/CSS/JS (online)
+* It-academy - JavaScript Web Application Development (offline)
+***
+#### Projects
+
+* Luxestate
+* WildVacation
+* Roadside Studio
+***
+#### Education 
+* Gomel State Vocational and Technical College of Electrical Engineering
+* FRANCISK SKORINA GOMEL STATE UNIVERSITY
+***
+#### Languages
+
+* English: B1 - Pre-Intermediate
+* Polish: B2 - Upper-intermediate
+* Ukrainian: C1 -  Advanced
