@@ -1,17 +1,22 @@
 # Andrei Ordzich
 ## Junior front-end developer
 ![photo](/img/MyPhoto.jpg "Andrei Ordzich")
+
 ***
+
 ##### Contacts
 ##### Minsk, Belarus
 ##### Email: dronpoet@gmail.com
 ##### Github: AndreiOrdzich
 ##### Telegram: !!!!!
 ##### Discord: Andrei Ordzich #1038
+
 ***
+
 #### About me
 
 I have been interested in frontend technologies for a long time. I like to constantly learn something new and immediately put it into practice. I have my main job and programming is my hobby. I have taken many frontend courses and would like to participate in a real project. My immediate goal is to learn JavaScript and TypeScript at a good level and further learn the React library. I would be happy to gain practical experience in various open source projects in order to gain practical experience under the guidance of experienced developers.
+
 ***
 
 #### Skills
@@ -20,6 +25,7 @@ I have been interested in frontend technologies for a long time. I like to const
 * Version control: GIT, Github
 * Graphics: Figma
 * DevTools: Chrome DevTools, Firebug
+
 ***
 #### Code 
 ``` 
@@ -45,17 +51,22 @@ function counter1 () {
 * Codeacademy - HTML/CSS (online)
 * FreeCodeCamp - HTML/CSS/JS (online)
 * It-academy - JavaScript Web Application Development (offline)
+
 ***
 #### Projects
 
 * Luxestate
 * WildVacation
 * Roadside Studio
+
 ***
+
 #### Education 
 * Gomel State Vocational and Technical College of Electrical Engineering
 * FRANCISK SKORINA GOMEL STATE UNIVERSITY
+
 ***
+
 #### Languages
 
 * English: B1 - Pre-Intermediate
