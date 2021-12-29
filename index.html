@@ -27,7 +27,15 @@
         </div>
     </header>
     <main class="main">
+
         <div class="container main-container">
+            <section class="section">
+                <img src="./img/MyPhoto.JPG" alt="MyPhoto" width="600" height="400">
+                <div class="section-profile-title">
+                    <h1>Andrei Ordzich</h1>
+                    <h3>Junior front-end developer</h3>
+                </div>
+            </section>
             <section class="section" id="Contacts">
                 <h2 class="section-title"></h2>
                 <ul class="section-content">
@@ -55,8 +63,24 @@
                 </ul>
             </section>
             <section class="section" id="Code">
-                <h2 class="section-title"></h2>
-                <ul class="section-content"></ul>
+                <h2 class="section-title">Code</h2>
+                <pre class="pre"><code>
+                    function counter1 () {
+                        button1 = document.getElementById('button1');
+                        var count1 = 0; //the current value is written here
+                        button1.innerHTML = count1; 
+                        
+                        button1.onclick = function (e) {
+                            e = e || event;
+                            var target1 = e.target || e.srcElement;
+                            if (target1.className == 'but1') {
+                                count1++;
+                                button1.innerHTML = count1;
+                    
+                            }
+                        }
+                    }
+                </code></pre>
             </section>
             <section class="section" id="Courses">
                 <h2 class="section-title"></h2>
@@ -79,8 +103,8 @@
     <footer>
 
     </footer>
-    <h1>Andrei Ordzich</h1>
-    <img src="./img/MyPhoto.JPG" alt="MyPhoto" width="600" height="400">
+
+
 </body>
 
 </html>
