@@ -1,6 +1,6 @@
 # Andrei Ordzich
 ## Junior front-end developer
-![photo](img/MyPhoto.jpg "Andrei Ordzich")
+![photo](./img/MyPhoto.jpg "Andrei Ordzich")
 
 ***
 
